@@ -1,0 +1,7 @@
+estrutura basica pro projeto react
+
+instalar react-scripts pra rodar o npm start:
+
+"scripts": {
+    "start": "react-scripts start"
+  }
